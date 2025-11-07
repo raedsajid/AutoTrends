@@ -460,7 +460,6 @@ pip install requests beautifulsoup4
 
 **Solutions:**
 - Increase delays between requests
-- Use a VPN or proxy
 - Wait before retrying
 - Check if PakWheels has updated their anti-scraping measures
 
